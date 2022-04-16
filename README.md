@@ -1,9 +1,5 @@
 Paolo's ReadME
-asdfasdfsaf
 
 
-this line is coming from my second commit
+[![drbh's GitHub stats](https://github-readme-stats.vercel.app/api?username=drbh&show_icons=false&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-this is my third commit. im experimenting because i want git to stop prompting me for auth every time i do anything
-
-try ssh
